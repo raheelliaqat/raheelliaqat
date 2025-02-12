@@ -27,7 +27,7 @@ I'm **Raheel Liaqat**, a passionate **Unity Game Developer** with **3+ years of 
 
 ---
 
-## 📂 Featured Projects
+## 📂 Published Projects
 
 ### 🎲 **Tall Man Run**
 <p align="center">
