@@ -68,6 +68,9 @@ I’m always looking to push the limits of interactive experiences by combining 
   <img src="https://play-lh.googleusercontent.com/OCZZCIFgXi5PQP-nIiBPURKZulgQnBMfKpBjRf9GwVpKHrpQ5NBI0L9BPsbTZLmKfl4=w800" alt="Sniper 3D Screenshot 1">
   <img src="https://play-lh.googleusercontent.com/ng8xfrqzJfCg6RiRg_GBlWSi5_A5oL5VDCrBZo7IevQMYIUlF5VhRCuCTmKcdoH0obc=w800" alt="Sniper 3D Screenshot 2">
   <img src="https://play-lh.googleusercontent.com/1_o9PwTus9VmMoR7czQ8ZruoCF39YMgCjz34UxEunXLJORYqOSGX63EyQEQEIkpWpgg=w800" alt="Sniper 3D Screenshot 3">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2U0eXp4bGt4dWhqcjk3Zzg3OW04YmQxNmk4Nng2a3g0Z2VrMGYwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYsAlhZSbuBubiN6C4/giphy.gif">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRzYTVuenZuZzA0OW4xbm5wazlyMXF6bHlnOWM2ZjIzZXVneWh6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fNRXQhwFWHiexIRLPL/giphy.gif">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWE1ejJndmFzcW01emticndsOWxtaXpoa2RoZGRodDgxM2M3aGp5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2fB7ZkVAIuXkI420u/giphy.gif">
 </p>
 📝 Description: A sniper 3D game focused on saving hostages and eliminating threats and crime in the city. With 29 intense sniper rifle games missions awaiting, immerse yourself in the heart-pounding action of sniper shooter mission game warfare.
 Sniper game feature 5 unique sniper guns and rifles, each equipped with four specialized 3D sniper shooting game bullets, including Default, Wanted, Tranquilizer, and Tyson Bullets, each with unique effects to enhance your sniper 3D offline Gameplay. Navigate through meticulously designed sniper shooter game 3D environments, from urban landscapes to chaotic bridges.
@@ -80,6 +83,8 @@ Sniper game feature 5 unique sniper guns and rifles, each equipped with four spe
 <p align="center">
   <img src="https://play-lh.googleusercontent.com/5UNdvwgF31uvzR_wxDsOONWs6u3LZWBTkHNUlqF_121foU_OyIKyEc2NRwX2hgFe9A=w800" alt="Sniper Rage Screenshot 1">
   <img src="https://play-lh.googleusercontent.com/gF7kRbAVHJZQbtIqWTM3eVEVMoeepl_nyCETEV71ObN2bLcf0AEDw5tm66RrdWNJEQ=w800" alt="Sniper Rage Screenshot 2">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXY0a2M4dGI4amxtYXY4MW1tZjZvZGc4b2V0eDY1aHd2bDEwY2h4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/70aW5VD9sDw6TLquF8/giphy.gif">
+  
 </p>
 📝  Description:
 A sniper shooting game focused on eliminating enemies within a given time or before they spot you. The main objective is to eliminate threats in the city and save hostages, whether it's criminal activity or terrorist threats.
