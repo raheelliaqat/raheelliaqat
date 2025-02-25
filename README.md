@@ -110,9 +110,18 @@ A sniper shooting game focused on eliminating enemies within a given time or bef
 With oddly satisfying gameplay and a wide array of features, Mob Control is your gateway to tower defense supremacy. Oddly Satisfying Gameplay: Create, Grow, and Lead! Experience the strangely satisfying thrill of watching your mob multiply as you aim and shoot at the gates.
 
 🔹 **Key Features**:
-- 🎯 Feature 1
-- 🚀 Feature 2
-- 🧩 Feature 3
+- **🛠️ Oddly Satisfying Gameplay** – Multiply your mob by aiming and shooting at gates, expanding your army strategically.
+- **🔮 Strategic Deployment** – Use Champions to break through enemy mobs and invade their bases.
+- **🚀 Intriguing Level Elements** – Speed boosts, multipliers, moving gates, and other fun mechanics add depth.
+- **🏆 Championship Progression** – Earn Championship Stars to rank up in the Champions League.
+- **🏢 Base Fortification** – Secure shields and protect your base from enemy raids.
+- **💎 Card Collection & Upgrades** – Unlock and upgrade Cannons, Mobs, and Champions for stronger gameplay.
+- **🎯 Diverse Game Modes**:
+  - *Base Invasion*: Raid enemy strongholds for coins and bricks.
+  - *Revenge & Counter-Attack*: Retaliate against enemy attacks.
+  - *Boss Levels*: Face unique challenges for extra rewards.
+- **🌟 Monthly Season Pass** – Unlock new content, skins, and heroes through quests.
+- **💼 Ad-Free Premium Experience** – Opt for a no-ads package for uninterrupted gameplay.
 
 ---
 
