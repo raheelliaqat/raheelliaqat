@@ -96,6 +96,14 @@ A sniper shooting game focused on eliminating enemies within a given time or bef
 
  🎮 Mob Control
 <p align="center">
+  <img src="https://i.imgur.com/uRGBIBM.jpeg">
+  <img src="https://i.imgur.com/eUu0BfC.jpeg">
+  <img src="https://i.imgur.com/b4mjYY6.jpeg">
+  <img src="https://i.imgur.com/fxH7kQA.jpeg">
+  <img src="https://i.imgur.com/YYNHjKP.jpeg">
+  <img src="https://i.imgur.com/IpcMoic.jpeg">
+  <img src="https://i.imgur.com/2dtZmmq.jpeg">
+  <img src="https://i.imgur.com/1jexqcu.jpeg">
   <img src="https://i.imgur.com/N6Hhm60.jpeg">
 
 📝 **Description**:  
