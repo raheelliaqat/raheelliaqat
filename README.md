@@ -8,16 +8,36 @@
 
 ---
 
-## 🎮 About Me
-I'm **Raheel Liaqat**, a passionate **Unity Game Developer** with **3+ years of experience** in gameplay programming, mechanics design, and API integration.  
+🎮 About Me
 
-✔️ Specialized in **game mechanics, Firebase API integration, ad integration APIs, and Google Play Asset Delivery**.  
-✔️ Experienced in optimizing performance, debugging, and ensuring smooth gameplay experiences.  
-✔️ Always exploring new **technologies & game development trends**.  
+I'm Raheel Liaqat, a passionate Unity Game Developer with 3+ years of experience in gameplay programming, physics simulations, and advanced game mechanics.
+🛠️ My Expertise in Game Development:
+
+✔️ Gameplay Mechanics & Systems Design – Crafting engaging mechanics that make games feel intuitive, responsive, and fun. From character controllers to enemy AI behaviors, I ensure smooth, immersive gameplay.
+
+✔️ Physics Programming – Implementing realistic physics-based interactions using Rigidbodies, Colliders, Forces, Impulses, and Raycasting. Proficient in creating:
+
+    Custom movement and jumping physics for platformers and FPS games.
+    Projectile motion for realistic bullets, arrows, and throwing mechanics.
+    Ragdoll physics for dynamic character reactions and death animations.
+    Advanced collision handling to prevent tunneling and unwanted physics glitches.
+
+✔️ Vectors & Transformations – Deep understanding of vector math in game development for:
+
+    Smooth player movement and steering behaviors using Lerp, Slerp, and Quaternion rotations.
+    Trajectory calculations for weapons, projectiles, and physics-based objects.
+    Procedural animations and inverse kinematics for character movements.
+    Efficient enemy AI pathfinding using NavMesh and custom A algorithms*.
+
+✔️ Optimization & Performance – Profiling and optimizing games for smooth frame rates across devices by reducing draw calls, physics overhead, and memory leaks.
+
+✔️ API Integration & Multiplayer – Experienced in Firebase (Firestore, Authentication, Analytics), Ad Integrations (AdMob, Unity Ads, IronSource), and Google Play Asset Delivery. Exploring multiplayer development using Photon PUN and Mirror.
+
+I’m always looking to push the limits of interactive experiences by combining physics, AI, and smooth game feel! 🚀
 
 ---
 
-## 🚀 Skills & Expertise
+🚀 Skills & Expertise
 - 🎮 **Game Mechanics & Gameplay Programming**  
 - 🔥 **Firebase Integration** (Authentication, Firestore, Realtime Database, Analytics)  
 - 📢 **Ad Integrations** (Google AdMob, Unity Ads, IronSource)  
