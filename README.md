@@ -53,6 +53,8 @@ I’m always looking to push the limits of interactive experiences by combining 
 <p align="center">
   <img src="https://play-lh.googleusercontent.com/KgrwbuaobGjJgNxrLZSeX70EEY3qzp3BCLe_QDVPcbDj6p5iOqIolsifRMIyR1LTfx8=w800" alt="Tall Man Run Screenshot 1">
   <img src="https://play-lh.googleusercontent.com/PmRAjGlfBKOHiiBWtS6IEDked3g2T0pVc4Wfp3AMGVN9UVjyh59XzF2vrxV7MZVxkilh=w800" alt="Tall Man Run Screenshot 2">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVha3dmYWR4Z2JlankwOGsyZmxwNXJ1NTdlMnUxb2Z2cnlzOHFsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5D6JX5zquBk67vTcXW/giphy.gif">
+  
 </p>
 📝 Description: As you walk across man tall game tracks, pass through blue cards to increase your size. Take every opportunity on the way to increase your height and thickness. This way you can collect more gems and rubies by the end of thick man run. Accumulate maximum power till the end of boy tall run to defeat the big buy awaiting beyond finish line. The red cards in tall boy run game, be wary they will decrease your size. They will downsize your tall and thick man and you will fail to reach finish line. Collect a maximum number of gems in every level of man tall run to buy upgrades. 
 
