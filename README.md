@@ -82,8 +82,11 @@ Sniper game feature 5 unique sniper guns and rifles, each equipped with four spe
 A sniper shooting game focused on eliminating enemies within a given time or before they spot you. The main objective is to eliminate threats in the city and save hostages, whether it's criminal activity or terrorist threats.
 
 🔹 75 Unique Missions in Sniper Mode.
+
 🔹 Zombie Mode - A wave-clearing survival challenge with increasing difficulty.
+
 🔹 Shooting Range Mode - Designed to help players practice their aim.
+
 🔹 On-demand content download for Zombie Mode and Shooting Range Mode to optimize storage.
 
 🔗 **[Play on Google Play](https://play.google.com/store/apps/details?id=com.rfg.Sniper.Rage.Zombie.Assassin3D)**  
