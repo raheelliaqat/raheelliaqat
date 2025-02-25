@@ -96,7 +96,7 @@ A sniper shooting game focused on eliminating enemies within a given time or bef
 
  🎮 Mob Control
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1Z9hWanfIlUReEHq2vSpgtyPMDxjfZb6M/view">
+  <img src="https://imgur.com/a/lIs1vPj">
 
 📝 **Description**:  
 With oddly satisfying gameplay and a wide array of features, Mob Control is your gateway to tower defense supremacy. Oddly Satisfying Gameplay: Create, Grow, and Lead! Experience the strangely satisfying thrill of watching your mob multiply as you aim and shoot at the gates.
