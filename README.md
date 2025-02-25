@@ -34,7 +34,7 @@ I'm **Raheel Liaqat**, a passionate **Unity Game Developer** with **3+ years of 
   <img src="https://play-lh.googleusercontent.com/KgrwbuaobGjJgNxrLZSeX70EEY3qzp3BCLe_QDVPcbDj6p5iOqIolsifRMIyR1LTfx8=w800" alt="Tall Man Run Screenshot 1">
   <img src="https://play-lh.googleusercontent.com/PmRAjGlfBKOHiiBWtS6IEDked3g2T0pVc4Wfp3AMGVN9UVjyh59XzF2vrxV7MZVxkilh=w800" alt="Tall Man Run Screenshot 2">
 </p>
-📝 **Description**: An exciting runner game with unique mechanics.  
+📝 Description: As you walk across man tall game tracks, pass through blue cards to increase your size. Take every opportunity on the way to increase your height and thickness. This way you can collect more gems and rubies by the end of thick man run. Accumulate maximum power till the end of boy tall run to defeat the big buy awaiting beyond finish line. The red cards in tall boy run game, be wary they will decrease your size. They will downsize your tall and thick man and you will fail to reach finish line. Collect a maximum number of gems in every level of man tall run to buy upgrades. 
 
 🔗 **[Play on Google Play](https://play.google.com/store/apps/details?id=com.tallman.rungame.pacificgamesclub)**  
 
@@ -46,7 +46,8 @@ I'm **Raheel Liaqat**, a passionate **Unity Game Developer** with **3+ years of 
   <img src="https://play-lh.googleusercontent.com/ng8xfrqzJfCg6RiRg_GBlWSi5_A5oL5VDCrBZo7IevQMYIUlF5VhRCuCTmKcdoH0obc=w800" alt="Sniper 3D Screenshot 2">
   <img src="https://play-lh.googleusercontent.com/1_o9PwTus9VmMoR7czQ8ZruoCF39YMgCjz34UxEunXLJORYqOSGX63EyQEQEIkpWpgg=w800" alt="Sniper 3D Screenshot 3">
 </p>
-📝 **Description**: A thrilling sniper shooting game with intense missions.  
+📝 Description: A sniper 3D game focused on saving hostages and eliminating threats and crime in the city. With 29 intense sniper rifle games missions awaiting, immerse yourself in the heart-pounding action of sniper shooter mission game warfare.
+Sniper game feature 5 unique sniper guns and rifles, each equipped with four specialized 3D sniper shooting game bullets, including Default, Wanted, Tranquilizer, and Tyson Bullets, each with unique effects to enhance your sniper 3D offline Gameplay. Navigate through meticulously designed sniper shooter game 3D environments, from urban landscapes to chaotic bridges.
 
 🔗 **[Play on Google Play](https://play.google.com/store/apps/details?id=com.sniper3d.gunshootinggames.pgc)**  
 
@@ -57,7 +58,13 @@ I'm **Raheel Liaqat**, a passionate **Unity Game Developer** with **3+ years of 
   <img src="https://play-lh.googleusercontent.com/5UNdvwgF31uvzR_wxDsOONWs6u3LZWBTkHNUlqF_121foU_OyIKyEc2NRwX2hgFe9A=w800" alt="Sniper Rage Screenshot 1">
   <img src="https://play-lh.googleusercontent.com/gF7kRbAVHJZQbtIqWTM3eVEVMoeepl_nyCETEV71ObN2bLcf0AEDw5tm66RrdWNJEQ=w800" alt="Sniper Rage Screenshot 2">
 </p>
-📝 **Description**: A zombie shooter with fast-paced action.  
+📝  Description:
+A sniper shooting game focused on eliminating enemies within a given time or before they spot you. The main objective is to eliminate threats in the city and save hostages, whether it's criminal activity or terrorist threats.
+
+🔹 75 Unique Missions in Sniper Mode.
+🔹 Zombie Mode - A wave-clearing survival challenge with increasing difficulty.
+🔹 Shooting Range Mode - Designed to help players practice their aim.
+🔹 On-demand content download for Zombie Mode and Shooting Range Mode to optimize storage.
 
 🔗 **[Play on Google Play](https://play.google.com/store/apps/details?id=com.rfg.Sniper.Rage.Zombie.Assassin3D)**  
 
